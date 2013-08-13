@@ -1,0 +1,15 @@
+       OS/2 Upload Information Template for ftp-os2.nmsu.edu
+
+Archive Name: veridata.zip
+Program Description: (keep it under 60 characters)
+Notebook power utilities (see README)
+Operating System Versions: OS/2 Warp (maybe older versions also)
+Program Source: included
+Replaces: nothing
+
+Your name: Pieter Verhaeghe
+Your email address: pive@ruca.ua.ac.be
+
+Proposed directory for placement: 
+
+note: needs the emx runtime lib
